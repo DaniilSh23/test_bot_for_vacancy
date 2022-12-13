@@ -4,3 +4,5 @@ Pyrogram==2.0.70
 PySocks==1.7.1
 TgCrypto==1.2.5
 uvloop==0.17.0
+APScheduler~=3.9.1.post1
+python-dotenv~=0.21.0
